@@ -1,1 +1,1 @@
-
+FROM nextcloud:latest
